@@ -1,2 +1,45 @@
-# Tech-Buzz-Street-view
-KARMA STREET VIEW
+# KARMA STREET VIEWER
+
+## Description
+
+The Karma Street Viewer is a code-based project that provides an immersive panoramic view of a college street. It aims to create a virtual experience for users to explore and navigate through a detailed representation of the college environment.
+
+## Key Features
+
+### 1. Panoramic Navigation
+
+Users can navigate through the college street using intuitive controls, such as dragging or using arrow keys. The panorama view provides a 360-degree perspective, allowing users to explore every corner of the street.
+
+### 2. Interactive Hotspots
+
+Highlight key locations or points of interest within the college street by adding interactive hotspots. Users can click on these hotspots to access additional information, images, or links related to specific areas or buildings.
+
+### 3. Responsive Design
+
+The project is designed to be responsive, ensuring a seamless experience across various devices, including desktops, tablets, and mobile phones.
+
+### 4. Customization
+
+Easily customize the project to represent different colleges or streets. Modify the images, hotspots, and other elements to tailor the experience to the unique features of each location.
+
+### 5. Code Modularity
+
+The codebase is organized into modular components, making it easy for developers to extend or modify specific functionalities. This modularity also facilitates future updates and maintenance.
+
+### 6. Accessibility
+
+Consideration for accessibility features, ensuring that the panoramic viewer is usable and enjoyable for users with diverse needs.
+
+## Backend Technologies
+
+- **NextJS API:** [Link to NextJS Documentation](https://nextjs.org/docs/api-routes/introduction)
+- **AWS App Sync:** [Link to AWS App Sync Documentation](https://docs.aws.amazon.com/appsync/latest/devguide/what-is-appsync.html)
+- **AWS Amplify (for hosting):** [Link to AWS Amplify Documentation](https://docs.amplify.aws/)
+- **GraphQL (API):** [Link to GraphQL Documentation](https://graphql.org/learn/)
+- **Dynamo DB (database):** [Link to DynamoDB Documentation](https://docs.aws.amazon.com/dynamodb/index.html)
+
+## Frontend Technologies
+
+- **Tailwind CSS:** [Link to Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- **NextJS:** [Link to NextJS Documentation](https://nextjs.org/docs/getting-started)
+

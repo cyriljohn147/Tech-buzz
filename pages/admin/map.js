@@ -91,7 +91,7 @@ export default function AdminHome() {
                 </div>
                 <div className="mb-4">
                     <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="slug">
-                       Front Left
+                       Front Left 
                     </label>
                     <input className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="fleft" type="text" name="fright" onChange={handleChange} />
                 </div>
