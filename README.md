@@ -66,3 +66,5 @@ npx create-next-app@latest
 ```
 
 On installation you will see the following prompts
+
+[![Video Title](https://raw.githubusercontent.com/cyriljohn147/Tech-buzz/screenshots/temp.webm)]
