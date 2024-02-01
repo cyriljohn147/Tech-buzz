@@ -20,7 +20,7 @@ The project is designed to be responsive, ensuring a seamless experience across 
 
 ### 4. Customization
 
-Easily customize the project to represent different colleges or streets. Modify the images, hotspots, and other elements to tailor the experience to the unique features of each location.
+Easily customize the project to represent different colleges or streets. Modify the images, hotspots, and other elements to tailor the experience t  o the unique features of each location.
 
 ### 5. Code Modularity
 
@@ -66,15 +66,3 @@ npx create-next-app@latest
 ```
 
 On installation you will see the following prompts
-
-```bash
-What is your project named? my-app
-Would you like to use TypeScript? No / Yes
-Would you like to use ESLint? No / Yes
-Would you like to use Tailwind CSS? No / Yes
-Would you like to use `src/` directory? No / Yes
-Would you like to use App Router? (recommended) No / Yes
-Would you like to customize the default import alias (@/*)? No / Yes
-What import alias would you like configured? @/*
-```
-
