@@ -4,6 +4,8 @@
 
 The Karma Street Viewer is a code-based project that provides an immersive panoramic view of a college street. It aims to create a virtual experience for users to explore and navigate through a detailed representation of the college environment.
 
+[![Video Title](https://raw.githubusercontent.com/cyriljohn147/Tech-buzz/main/screenshots/p2.png)](https://raw.githubusercontent.com/cyriljohn147/Tech-buzz/main/screenshots/p2.png)
+
 ## Key Features
 
 ### 1. Panoramic Navigation
@@ -66,6 +68,4 @@ npx create-next-app@latest
 ```
 
 On installation you will see the following prompts
-
-[![Video Title](https://raw.githubusercontent.com/cyriljohn147/Tech-buzz/main/screenshots/p2.png)](https://raw.githubusercontent.com/cyriljohn147/Tech-buzz/main/screenshots/p2.png)
 
