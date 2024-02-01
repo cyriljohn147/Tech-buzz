@@ -67,5 +67,5 @@ npx create-next-app@latest
 
 On installation you will see the following prompts
 
-[![Video Title](https://raw.githubusercontent.com/cyriljohn147/Tech-buzz/main/screenshots/temp.mp4)](https://raw.githubusercontent.com/cyriljohn147/Tech-buzz/main/screenshots/temp.mp4)
+[![Video Title](https://raw.githubusercontent.com/cyriljohn147/Tech-buzz/main/screenshots/p2.png)](https://raw.githubusercontent.com/cyriljohn147/Tech-buzz/main/screenshots/p2.png)
 
