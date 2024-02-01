@@ -51,6 +51,7 @@ Tailwind CSS is available on npm, and you can install it using the following com
 
 ```bash
 npm install tailwindcss
+```
 
 - **NextJS:** [Link to NextJS Documentation](https://nextjs.org/docs/getting-started)
 
