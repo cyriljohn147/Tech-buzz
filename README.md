@@ -1,6 +1,6 @@
 # KARMA STREET VIEWER
 
-Traditional mapping services, such as Google Maps, fall short in meeting the specialized needs of private educational institutions like colleges. The inability to provide integrated outdoor and indoor 360-degree views of the campus poses a significant challenge. Moreover, concerns related to copyright from both Google and the institution further restrict the implementation of a comprehensive mapping solution. As a result, there is a critical need for a proprietary mapping system designed specifically for private educational institutions, offering a secure and tailored approach to address these limitations and enhance the overall mapping experience within the educational environment.
+Traditional mapping services, such as Google Maps, fall short in meeting the specialized needs of private institutions like colleges. The inability to provide integrated outdoor and indoor 360-degree views of the campus poses a significant challenge. Moreover, concerns related to copyright from both Google and the institution further restrict the implementation of a comprehensive mapping solution. As a result, there is a critical need for a proprietary mapping system designed specifically for private institutions, offering a secure and tailored approach to address these limitations and enhance the overall mapping experience within the environment.
 
 ## Description
 
