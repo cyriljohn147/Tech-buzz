@@ -35,24 +35,24 @@ Consideration for accessibility features, ensuring that the panoramic viewer is 
 ## Backend Technologies
 
 - **NextJS API:** [Link to NextJS Documentation](https://nextjs.org/docs/api-routes/introduction)
-- **AWS App Sync:** [Link to AWS App Sync Documentation](https://docs.aws.amazon.com/appsync/latest/devguide/what-is-appsync.html)
+- **AWS App Sync:** [Link to AWS App Sync Documentation]
 
 AWS AppSync enables developers to connect their applications and services to data and events with secure, serverless and high-performing GraphQL and Pub/Sub APIs. You can do the following with AWS AppSync:
 
 ->Publish real-time data updates to your applications.  
 ->Only pay for API requests and any real-time messages that are delivered.
 
-- **AWS Amplify (for hosting):** [Link to AWS Amplify Documentation](https://docs.amplify.aws/)
+- **AWS Amplify (for hosting):**
 
 AWS Amplify is a fully managed service by Amazon Web Services (AWS) designed to simplify the process of developing and deploying web applications. It provides a set of tools and services that make it easier for developers to build scalable and feature-rich web applications. Some key details about AWS Amplify are Continuous Deployment, Built-in Scalability
 .
-- **GraphQL (API):** [Link to GraphQL Documentation](https://graphql.org/learn/)
+- **GraphQL (API):** 
 
 GraphQL is like a superhero language for making apps talk to servers. Instead of asking for too much or too little information, it lets you ask for exactly what you need. It's like ordering a customized pizza instead of getting a fixed menu deal. This makes apps faster and saves data.
 
 With GraphQL, developers can easily understand and organize the information they're working with, making it a friendlier way to build awesome apps!
 
-- **Dynamo DB (database):** [Link to DynamoDB Documentation](https://docs.aws.amazon.com/dynamodb/index.html)
+- **Dynamo DB (database):**
 
 DynamoDB is like a super-powered digital storage space made by Amazon.It's super quick, so you can find your stuff (or data) really fast whenever you need it.  It's perfect for making apps run smoothly and quickly!
 
