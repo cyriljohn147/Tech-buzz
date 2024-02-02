@@ -3,7 +3,7 @@
 ## Description
 
 The Karma Street Viewer is a code-based project that provides an immersive panoramic view of a college street. It aims to create a virtual experience for users to explore and navigate through a detailed representation of the college environment.  
-- **WEBSITE**:[Link to website](https://karma-street-view.mellob.in/view/gitam-ent-area-1)
+[- **WEBSITE**:](https://karma-street-view.mellob.in/view/gitam-ent-area-1)
 
 [![Video Title](https://raw.githubusercontent.com/cyriljohn147/Tech-buzz/main/screenshots/p2.png)](https://raw.githubusercontent.com/cyriljohn147/Tech-buzz/main/screenshots/p2.png)
 
