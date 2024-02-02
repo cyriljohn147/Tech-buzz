@@ -1,9 +1,14 @@
 # KARMA STREET VIEWER
 
+## Problem Statement
+
+Traditional mapping services, such as Google Maps, fall short in meeting the specialized needs of private educational institutions like colleges. The inability to provide integrated outdoor and indoor 360-degree views of the campus poses a significant challenge. Moreover, concerns related to copyright from both Google and the institution further restrict the implementation of a comprehensive mapping solution. As a result, there is a critical need for a proprietary mapping system designed specifically for private educational institutions, offering a secure and tailored approach to address these limitations and enhance the overall mapping experience within the educational environment.
+
 ## Description
 
 The Karma Street Viewer is a code-based project that provides an immersive panoramic view of a college street. It aims to create a virtual experience for users to explore and navigate through a detailed representation of the college environment.  
 [- **WEBSITE**:](https://karma-street-view.mellob.in/view/gitam-ent-area-1)
+This proprietary mapping solution serves as an alternative to Google Maps specifically tailored for private educational institutions such as colleges. It goes beyond conventional mapping services by seamlessly integrating both outdoor and indoor 360-degree views of the campus. This unique approach addresses copyright considerations associated with both Google and the institution, ensuring a secure and tailored mapping experience for the educational environment.
 
 [![Video Title](https://raw.githubusercontent.com/cyriljohn147/Tech-buzz/main/screenshots/p2.png)](https://raw.githubusercontent.com/cyriljohn147/Tech-buzz/main/screenshots/p2.png)
 
