@@ -39,16 +39,13 @@ Consideration for accessibility features, ensuring that the panoramic viewer is 
 
 AWS AppSync enables developers to connect their applications and services to data and events with secure, serverless and high-performing GraphQL and Pub/Sub APIs. You can do the following with AWS AppSync:
 
-->Publish real-time data updates to your applications.
+->Publish real-time data updates to your applications.  
 ->Only pay for API requests and any real-time messages that are delivered.
 
 - **AWS Amplify (for hosting):** [Link to AWS Amplify Documentation](https://docs.amplify.aws/)
 
-AWS Amplify is a fully managed service by Amazon Web Services (AWS) designed to simplify the process of developing and deploying web applications. It provides a set of tools and services that make it easier for developers to build scalable and feature-rich web applications. Here are some key details about AWS Amplify:
-
-->Continuous Deployment\n
-->Built-in Scalability
-
+AWS Amplify is a fully managed service by Amazon Web Services (AWS) designed to simplify the process of developing and deploying web applications. It provides a set of tools and services that make it easier for developers to build scalable and feature-rich web applications. Some key details about AWS Amplify are Continuous Deployment, Built-in Scalability
+.
 - **GraphQL (API):** [Link to GraphQL Documentation](https://graphql.org/learn/)
 
 GraphQL is like a superhero language for making apps talk to servers. Instead of asking for too much or too little information, it lets you ask for exactly what you need. It's like ordering a customized pizza instead of getting a fixed menu deal. This makes apps faster and saves data.
