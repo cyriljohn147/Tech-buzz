@@ -44,13 +44,10 @@ AWS AppSync enables developers to connect their applications and services to dat
 
 - **AWS Amplify (for hosting):** [Link to AWS Amplify Documentation](https://docs.amplify.aws/)
 
-AWS Amplify is a fully managed service by Amazon Web Services (AWS) designed to simplify the process of developing and deploying web applications. It provides a set of tools and services that make it easier for developers to build scalable and feature-rich web applications. Here are some key details about AWS Amplify, particularly its features related to hosting websites:
+AWS Amplify is a fully managed service by Amazon Web Services (AWS) designed to simplify the process of developing and deploying web applications. It provides a set of tools and services that make it easier for developers to build scalable and feature-rich web applications. Here are some key details about AWS Amplify:
 
 ->Continuous Deployment:
-AWS Amplify enables you to connect your web application repository to Amplify. When you push changes to your repository, Amplify automatically builds and deploys the updated version of your application.
-
 ->Built-in Scalability:
-Amplify automatically scales your web application based on demand. It can handle traffic spikes by automatically provisioning additional resources to ensure optimal performance.
 
 - **GraphQL (API):** [Link to GraphQL Documentation](https://graphql.org/learn/)
 
